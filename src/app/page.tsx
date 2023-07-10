@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Hello world</h1>
+      <h1>takeshiemoto.github.io</h1>
     </main>
   );
 }
